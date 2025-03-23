@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  }
+  .problem {
+    font-size: 24px;
+    margin: 20px 0;
+  }
+  input[type="text"] {
+    font-size: 20px;
+    padding: 5px;
+    width: 200px;
+  }
+  button {
+    font-size: 20px;
+    padding: 5px 10px;
+    margin: 10px 5px;
+  }
+  .message {
+    font-size: 20px;
+    margin: 20px 0;
+    height: 30px;
+  }
+  .info {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  .progress-bar {
+    width: 100%;
+    background-color: #ddd;
+    border-radius: 5px;
+    margin: 10px 0;
+    height: 20px;
+  }
+  .progress {
+    height: 100%;
+    background-color: #4caf50;
+    border-radius: 5px;
+    width: 50%;
+  }
+  
